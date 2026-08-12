@@ -44,3 +44,7 @@ I focused on creating a simple and user-friendly login experience while maintain
 ## Design Tool
 
 **Figma**
+
+## Figma Design
+
+[View the Figma Design](https://www.figma.com/design/OAbmDb0w7LNlZW6xWPku00/Cosmatics-App?node-id=0-1&t=3oPtooh6IIIfGHNF-1)

@@ -1,4 +1,4 @@
-# Cosmatics E-Commerce Website
+# Cosmetics E-Commerce Website
 
 ## HCI Team Project
 
